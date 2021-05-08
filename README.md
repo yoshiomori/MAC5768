@@ -101,7 +101,7 @@ O EP3 tem dois objetivos principais:
 
 
 
-![1](https://edisciplinas.usp.br/pluginfile.php/6004503/mod_wiki/intro/WhatsApp%20Image%202020-11-24%20at%2014.00.11.jpeg)
+![1](https://i.postimg.cc/rpbqQdgz/Whats-App-Image-2020-11-24-at-14-00-11.jpg)
 
 
 
@@ -117,15 +117,15 @@ As etapas do EP3 estão descritas no vídeo da aula e na figura abaixo. Tanto 3.
 
 
 
-![2](https://edisciplinas.usp.br/pluginfile.php/6004503/mod_wiki/intro/Captura%20de%20Tela%202020-11-24%20a%CC%80s%2015.03.23.png)
+![2](https://i.postimg.cc/9M7CSWNb/Captura-de-Tela-2020-11-24-a-s-15-03-23.png)
 
 
 
 Pipelines das partes 1 e 2 do EP3: 
 
 
-![3](https://edisciplinas.usp.br/pluginfile.php/6004503/mod_wiki/intro/EP3_pipeline-Page-1.png?time=1606242201124)
+![3](https://i.postimg.cc/Zq0T8P81/EP3-pipeline-Page-1.png)
 
-![4](https://edisciplinas.usp.br/pluginfile.php/6004503/mod_wiki/intro/EP3_pipeline-Page-2.png)
+![4](https://i.postimg.cc/GmXLTgyF/EP3-pipeline-Page-2.png)
 
 
